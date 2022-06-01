@@ -6,12 +6,15 @@
   </a>
 </p>
 
+
+  <a href="https://docs.google.com/document/d/1H9tK9w10cbuDEZH-etAb3prn6skCBgvMBgrE2hNpGkg/edit?usp=sharing"> Documentación del co-learning 🔤 </a>
+
 > Crud de productos con express, para listar, crear, editar y borrrar productos desde una base de datos de json, respetando el patrón de diseño mvc
 
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/homeview.png />
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/products.png />
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/detail.png />
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/update.png />
+<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/homeview.png" />
+<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/products.png" />
+<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/detail.png" />
+<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/update.png" />
 
 ## Install
 
