@@ -8,10 +8,10 @@
 
 > Crud de productos con express, para listar, crear, editar y borrrar productos desde una base de datos de json, respetando el patrón de diseño mvc
 
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/homeview.png />
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/products.png />
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/detail.png />
-<img alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/update.png />
+<img width=100% alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/homeview.png" />
+<img width=100% alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/products.png" />
+<img width=100% alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/detail.png" />
+<img width=100% alt="Version" src="https://github.com/Josemiranda989/co-learning-crud-simple/blob/master/public/images/prints/update.png" />
 
 ## Install
 
